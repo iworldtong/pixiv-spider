@@ -1,5 +1,5 @@
 # pixiv-spider
-Download pixiv images/Gifs with custom Settings...
+Download pixiv images/Gifs with custom settings...
 
 ## Requirements
 
